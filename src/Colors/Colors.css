@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=PT+Sans&family=Rubik:wght@400&display=swap');
+
+*{
+    
+font-family: 'PT Sans', sans-serif;
+font-family: 'Rubik', sans-serif;
+}
+.color-title{
+    margin-top:40px;
+    margin-right: 60px ;
+
+}
+
+.ml{
+    margin-left: 20px;
+}
